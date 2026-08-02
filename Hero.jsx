@@ -85,7 +85,7 @@ function Hero({ headlineIndex = 0 }) {
                 background: 'var(--blush)',
               }}>
                 <img
-                  src="assets/roshni-headshot.jpeg"
+                  src="roshni-headshot.jpeg"
                   alt="Roshni Chopdar"
                   style={{
                     width: '100%',
