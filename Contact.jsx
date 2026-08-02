@@ -7,7 +7,7 @@ const CONTACTS = [
   { label: 'Email', value: 'roshnichopdar@gmail.com', href: 'mailto:roshnichopdar@gmail.com' },
   { label: 'LinkedIn', value: 'linkedin.com/in/roshnichopdar', href: 'https://www.linkedin.com/in/roshnichopdar/' },
   { label: 'Phone', value: '+1 (908) 421-2105', href: 'tel:+19084212105' },
-  { label: 'Resume', value: 'PDF · 2026', href: 'Resume_RoshniChopdar.pdf' },
+  { label: 'Resume', value: 'click here', href: 'Resume_RoshniChopdar.pdf' },
 ];
 
 function Contact() {
