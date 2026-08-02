@@ -20,7 +20,7 @@ const PROJECTS = [
     ],
     tag: 'GTM',
     label: 'Localization & campaign',
-    image: 'assets/athletifreak.jpeg',
+    image: 'athletifreak.jpeg',
     imagePosition: 'center 50%',
   },
   {
@@ -38,7 +38,7 @@ const PROJECTS = [
     ],
     tag: 'Brand growth',
     label: 'Giving Day campaign',
-    image: 'assets/rutgers-cwb.png',
+    image: 'rutgers-cwb.png',
     imagePosition: 'center center',
   },
   {
@@ -56,7 +56,7 @@ const PROJECTS = [
     ],
     tag: 'Case study',
     label: 'Internal program / case study',
-    image: 'assets/servicenow.png',
+    image: 'servicenow.png',
     imagePosition: 'center 30%',
   },
   {
@@ -74,7 +74,7 @@ const PROJECTS = [
     ],
     tag: 'Leadership',
     label: 'Speaker series',
-    image: 'assets/rams.jpg',
+    image: 'rams.jpg',
     imagePosition: 'center 30%',
   },
   {
@@ -92,7 +92,7 @@ const PROJECTS = [
     ],
     tag: 'Campaign',
     label: 'Reel + hashtag system',
-    image: 'assets/mvvo.png',
+    image: 'mvvo.png',
     imagePosition: 'center 30%',
   },
   {
@@ -111,7 +111,7 @@ const PROJECTS = [
     ],
     tag: 'Creator economy',
     label: 'Editorial campaign / hero',
-    image: 'assets/retouch-by-riya-analytics.png',
+    image: 'retouch-by-riya-analytics.png',
     imagePosition: 'center top',
   },
 ];
