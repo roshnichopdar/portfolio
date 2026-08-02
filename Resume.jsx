@@ -29,7 +29,7 @@ function Resume() {
                 One page. Every role, every metric, every certification.
               </p>
               <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
-                <a href="assets/Resume_RoshniChopdar.pdf" download className="mono" style={{
+                <a href="Resume_RoshniChopdar.pdf" download className="mono" style={{
                   padding: '14px 22px',
                   borderRadius: 999,
                   background: 'var(--ink)',
@@ -44,7 +44,7 @@ function Resume() {
                 >
                   Download PDF ↓
                 </a>
-                <a href="assets/Resume_RoshniChopdar.pdf" target="_blank" rel="noopener" className="mono" style={{
+                <a href="Resume_RoshniChopdar.pdf" target="_blank" rel="noopener" className="mono" style={{
                   padding: '14px 22px',
                   borderRadius: 999,
                   border: '1px solid var(--ink)',
