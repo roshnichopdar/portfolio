@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<!--
+  ============================================================
+  ROSHNI CHOPDAR — PORTFOLIO
+  ============================================================
+  HOW TO EDIT:
+  - Text content lives inside the .jsx files in /sections.
+    Each section is self-contained; component names match what's on screen.
+  - Colors and typography are in styles.css under :root (and the
+    [data-palette]/[data-type] blocks for tweak variants).
+  - Your resume is at assets/Resume_RoshniChopdar.pdf.
+  - Headshot + project images: drop into /assets and update
+    the placeholders inside Hero.jsx and Projects.jsx.
+-->
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Roshni Chopdar · Marketer, Strategist, Operator</title>
+  <meta name="description" content="Portfolio of Roshni Chopdar, a marketing strategist working at the intersection of culture, beauty, creator economy, and AI-powered workflows." />
+
+  <!-- FONTS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&family=DM+Sans:wght@300;400;500;600&family=Manrope:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="styles.css" />
+  <template id="__bundler_thumbnail"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><rect width="200" height="200" fill="#14110F"/><text x="30" y="115" font-family="Georgia, serif" font-size="72" font-style="italic" fill="#EBD9CE">RC</text></svg></template>
+
+  <!-- Pre-paint theme: read default theme from the EDITMODE block in app.jsx
+       and apply it to <html> BEFORE React mounts, so the page paints dark
+       (or light, palette, type) from the very first frame — no flash. -->
+  <script>
+    (function () {
+      // Default matches TWEAK_DEFAULTS in app.jsx — keep in sync.
+      var defaults = { palette: 'blush-ink', type: 'instrument-geist', dark: true };
+      var root = document.documentElement;
+      root.setAttribute('data-theme', defaults.dark ? 'dark' : 'light');
+      if (defaults.palette && defaults.palette !== 'blush-ink') {
+        root.setAttribute('data-palette', defaults.palette);
+      }
+      if (defaults.type && defaults.type !== 'instrument-geist') {
+        root.setAttribute('data-type', defaults.type);
+      }
+    })();
+  </script>
+
+  <!-- React + Babel -->
+  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div id="root"></div>
+
+  <!-- Component files. Each defines components and exports to window so siblings can use them. -->
+  <script type="text/babel" src="tweaks-panel.jsx"></script>
+  <script type="text/babel" src="components.jsx"></script>
+  <script type="text/babel" src="sections/Hero.jsx"></script>
+  <script type="text/babel" src="sections/Impact.jsx"></script>
+  <script type="text/babel" src="sections/About.jsx"></script>
+  <script type="text/babel" src="sections/Experience.jsx"></script>
+  <script type="text/babel" src="sections/Projects.jsx"></script>
+  <script type="text/babel" src="sections/AIWorkflow.jsx"></script>
+  <script type="text/babel" src="sections/Industries.jsx"></script>
+  <script type="text/babel" src="sections/Resume.jsx"></script>
+  <script type="text/babel" src="sections/Contact.jsx"></script>
+  <script type="text/babel" src="app.jsx"></script>
+</body>
+</html>
