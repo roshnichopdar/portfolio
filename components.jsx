@@ -116,7 +116,7 @@ function Footer() {
           </div>
           <div style={{ textAlign: 'right' }}>
             <div className="mono-sm" style={{ color: 'var(--ink-mute)' }}>© 2026. Designed with intention.</div>
-            <div className="mono-sm" style={{ color: 'var(--ink-mute)', marginTop: 6 }}>Edison, NJ → Open to NYC</div>
+            <div className="mono-sm" style={{ color: 'var(--ink-mute)', marginTop: 6 }}>Edison, NJ → Open to NJ & NYC</div>
           </div>
         </div>
       </div>
