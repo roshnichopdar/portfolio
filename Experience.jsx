@@ -34,7 +34,7 @@ const JOBS = [
     role: 'Social Media Manager (Beauty Influencer)',
     when: 'Jun 2021–Jul 2024',
     where: 'Dallas, TX',
-    note: 'Scaled IG to 300K+ and TikTok to 146K+. Managed 195 brand partnerships end-to-end. Launched a beauty academy that generated $85K+ in revenue.',
+    note: 'Scaled @retouchbyriya to 300K+ on IG and 146K+ on TikTok. Managed 195 brand partnerships end-to-end. Launched a beauty academy that generated $85K+ in revenue.',
     tags: ['Creator Economy', 'Beauty', 'Partnerships', 'CRM', 'Operations'],
   },
   {
