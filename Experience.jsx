@@ -78,7 +78,7 @@ function Experience() {
           </Reveal>
           <Reveal delay={1}>
             <p className="lede">
-              Six roles, three industries, one through-line: turn brand intent into systems that actually ship and audiences that actually grow.
+              Seven roles, three industries, one through-line: turn brand intent into systems that actually ship and audiences that actually grow.
             </p>
           </Reveal>
         </div>
