@@ -7,8 +7,7 @@ const ABOUT_COPY = {
   kicker: '01 · About',
   title: <>Strategy with <em>taste</em>. Operations with rigor.</>,
   paragraphs: [
-    "I'm Roshni, a marketer shaped by two worlds: the fast-moving creator economy and the operational discipline of enterprise technology. I spent four years scaling a beauty creator from a bedroom studio to 446K+ followers and a $85K academy launch, then sharpened that instinct inside ServiceNow's product marketing org, where I learned how positioning, enablement, and messaging move at scale.",
-    "What I love is the seam where culture meets systems: the place where a brand voice has to survive a Klaviyo flow, a TikTok algorithm shift, and a 9am stand-up all in the same week. That seam is where I build.",
+    "I'm Roshni, a marketer shaped by two worlds: the fast-moving creator economy and the operational discipline of enterprise technology. I spent four years scaling a beauty creator from a bedroom studio to 446K+ followers and a $85K academy launch, then sharpened that instinct inside ServiceNow's product marketing org, where I learned how positioning, enablement, and messaging move at scale. Today, I bring that same rigor to AWS, supporting infrastructure business operations through data, process, and cross-functional coordination.",    "What I love is the seam where culture meets systems: the place where a brand voice has to survive a Klaviyo flow, a TikTok algorithm shift, and a 9am stand-up all in the same week. That seam is where I build.",
     "Today, I'm interested in the intersection of brand storytelling, creator operations, performance analytics, and AI-powered workflows. I use AI not as a shortcut, but as a force multiplier- helping teams move faster while making more thoughtful decisions.",
   ],
   sidebar: [
