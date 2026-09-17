@@ -45,7 +45,7 @@ function Hero({ headlineIndex = 0 }) {
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 'clamp(40px, 5vw, 72px)', flexWrap: 'wrap', gap: 16 }}>
             <div className="mono" style={{ color: 'var(--ink-mute)' }}>
               <span style={{ display: 'inline-block', width: 6, height: 6, borderRadius: '50%', background: 'var(--accent)', marginRight: 10, verticalAlign: 'middle' }} />
-              Available for full-time · Class of 2025
+              AWSI Operations Analyst @ AWS
             </div>
             <div className="mono" style={{ color: 'var(--ink-mute)' }}>
               PORTFOLIO
