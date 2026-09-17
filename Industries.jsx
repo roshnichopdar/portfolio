@@ -30,7 +30,7 @@ function Industries() {
           </Reveal>
           <Reveal delay={1}>
             <p className="lede">
-              I'm building toward roles in marketing strategy, brand partnerships, creator operations, and digital strategy across the industries below, in order of obsession.
+              I gravitate toward marketing strategy, brand partnerships, creator operations, and digital strategy across the industries below, in order of obsession.
             </p>
           </Reveal>
         </div>
