@@ -10,8 +10,8 @@ const JOBS = [
     role: 'AWSI Operations Analyst',
     when: 'Sep 2026–Present',
     where: 'New York, NY',
-    note: 'Prepare data and reporting for AWSI\'s weekly pipeline business review, consolidating multiple data sources into a clear view of pipeline health, movement, and risk for leadership. Build lightweight AI tools to automate repetitive pipeline preparation and surface patterns from closed-won opportunities. Process territory management transactions, run scheduled data quality checks across trackers and dashboards, and manage approval workflows through completion.',    tags: ['AWS', 'Business Operations', 'Data Analysis', 'Process Improvement', 'Automation', 'Cross-Functional Collaboration'],
-  },
+    note: 'Prepare data and reporting for AWSI\'s weekly pipeline business review, consolidating multiple data sources into a clear view of pipeline health, movement, and risk for leadership. Build lightweight AI tools to automate repetitive pipeline preparation and surface patterns from closed-won opportunities. Process territory management transactions, run scheduled data quality checks across trackers and dashboards, and manage approval workflows through completion.',
+    tags: ['AWS', 'Sales Operations', 'Pipeline Analytics', 'Automation', 'Data Quality', 'Territory Management'],
   {
     company: 'ATHLETIFREAK',
     role: 'Marketing Coordinator',
