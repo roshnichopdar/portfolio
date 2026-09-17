@@ -31,18 +31,6 @@ function Contact() {
           </h2>
         </Reveal>
 
-        <Reveal delay={2}>
-          <p style={{
-            fontSize: 'clamp(16px, 1.3vw, 20px)',
-            color: 'rgba(246,239,233,0.75)',
-            lineHeight: 1.55,
-            maxWidth: '56ch',
-            marginBottom: 'clamp(32px, 4vw, 48px)',
-          }}>
-            Open to full-time roles in marketing strategy, brand partnerships, creator operations, product marketing, and digital strategy. Based in New Jersey and New York.
-          </p>
-        </Reveal>
-
         <div style={{
           display: 'grid',
           gridTemplateColumns: 'repeat(2, 1fr)',
