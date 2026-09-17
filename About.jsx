@@ -12,7 +12,7 @@ const ABOUT_COPY = {
     "Today, I'm interested in the intersection of brand storytelling, creator operations, performance analytics, and AI-powered workflows. I use AI not as a shortcut, but as a force multiplier- helping teams move faster while making more thoughtful decisions.",
   ],
   sidebar: [
-    ['Based in', 'Edison, NJ'],
+    ['Based in', 'New York City Metropolitian Area'],
     ['Currently', 'AWSI Operations Analyst at AWS'],
     ['Education', 'Rutgers University, ’25'],
     ['Degree', 'IT & Informatics + Business Admin'],
