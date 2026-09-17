@@ -80,9 +80,9 @@ function Resume() {
               </div>
               {[
                 ['Education', 'Rutgers University ’25, IT & Informatics + Business'],
-                ['Most recent', 'Marketing Coordinator, ATHLETIFREAK'],
-                ['Prior', 'ServiceNow · Rutgers CWB · Retouch By Riya'],
-                ['Tools', 'Klaviyo · Shopify · Copilot · Monday · Adobe · Canva'],
+                ['Currently', 'AWSI Operations Analyst, AWS'],
+                ['Prior', 'ATHLETIFREAK · ServiceNow · Rutgers CWB · Retouch By Riya'],
+                ['Tools', 'Salesforce · Klaviyo · Shopify · Copilot · Monday · Adobe · Canva'],
                 ['Certs', 'GenAI for Marketing w/ Copilot · Pinterest Media Buyer · Prompt Engineering'],
               ].map(([k, v], i) => (
                 <div key={i} style={{
