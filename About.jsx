@@ -13,11 +13,11 @@ const ABOUT_COPY = {
   ],
   sidebar: [
     ['Based in', 'Edison, NJ'],
-    ['Open to', 'New Jersey & New York'],
+    ['Currently', 'AWSI Operations Analyst at AWS'],
     ['Education', 'Rutgers University, ’25'],
-    ['Studying', 'IT & Informatics + Business Admin'],
+    ['Degree', 'IT & Informatics + Business Admin'],
     ['Languages', 'English · Hindi · Urdu · Oriya · Spanish'],
-    ['Most recent', 'Marketing Coordinator at ATHLETIFREAK'],
+    ['Prior', 'ATHLETIFREAK · ServiceNow · Rutgers CWB · Retouch By Riya'],,
   ],
 };
 
